@@ -1,8 +1,11 @@
 # DevOpsConsultingProject
 DevOps Consulting Project Management 
 
-What we do  :
+Directors :
+Sreeharinath Rangaraju
+Kanagasabapathi Ramalingam
 
+What we do  :
 Training. 
 DevOps Resource Preparation.
 Solution Consulting.
