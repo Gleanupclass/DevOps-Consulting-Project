@@ -1,0 +1,18 @@
+Course Objective : 
+● Describe version control and purpose.
+● SSH connectivity, Install and configuration of git client on different platforms.
+● Git Terminologies.
+● Initialize a repository, perform commit and write commit messages, push, pull, fork, fetch.
+● Three-Tier architecture and git workflow.
+● Make changes to files, best practices.
+● Revert a commit.
+● Create and merge branches for code review via Pull Requests.
+● Merge conflict resolution.
+● how to Stash a change, cherry picking
+● Access and modify remote repositories.
+● Implement release tagging and workflow strategies.
+● Setup a GitHub account and manage files and projects.
+● Branching Strategy.
+
+Project : 
+SSH.
