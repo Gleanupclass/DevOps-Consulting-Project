@@ -16,3 +16,18 @@ Course Objective :
 
 Project : 
 SSH.
+
+Day-0 DeVOps Intro to Devops
+Purpose of Devops - Business, SW Development.  
+DevOps lifecycle.
+Tech Stack/Tools used.
+Sample architecture Reference.
+Skills Required to became DevOps Engineer. 
+
+Google Form - Registration
+
+Day-1 Intro To Github.
+DevOps Overview and how Github is significant- 5 Mins.
+Github Terminologies - 15 Mins
+SSH connectivity - 5 Mins
+Exercise - Clone, Commit, Push, Pull.
