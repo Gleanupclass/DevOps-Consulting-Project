@@ -10,5 +10,5 @@ D. Simple Shell and Python scripting, Yaml Basics.
 E. Application Types and Web application Deployment.
 F. AWS Cloud Introduction and services.
 G. Cybersecurity Introduction.
-H. CICD Pipeline setup.
+H. CICD Pipeline setup using Github Actions.
 I. API, Logs and Monitoring.
