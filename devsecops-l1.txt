@@ -1,1 +1,14 @@
-
+Workshop Name: DevSecOps Leve1-1.
+Workshops to enable/refresh DevSecOps Skills to handle DevOps Engineer/Consulting  Role.
+Who can attend : System Administrators, Software developers, IT Engineers, Testers, Project Managers,Anyone with basic IT backgroud.
+Content: A set of workshops to cover the objective, each workshop will be covered in 1 to 3 Sessions.
+List of Workshops.
+A. Introduction session - DevSecOps.
+B. System administration, DB  and Networking basics.
+C. Github Basics - Source Code Version Control.
+D. Simple Shell and Python scripting, Yaml Basics.
+E. Application Types and Web application Deployment.
+F. AWS Cloud Introduction and services.
+G. Cybersecurity Introduction.
+H. CICD Pipeline setup.
+I. API, Logs and Monitoring.
