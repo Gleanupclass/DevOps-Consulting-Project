@@ -11,4 +11,4 @@ E. Application Types and Web application Deployment.
 F. AWS Cloud Introduction and services.
 G. Cybersecurity Introduction.
 H. CICD Pipeline setup using Github Actions.
-I. Overview of RestAPI, Logs and Monitoring tools (splunk, newrelic).
+I. Overview of RestAPI, Logs and Monitoring tools (cloudwatch, splunk, newrelic).
